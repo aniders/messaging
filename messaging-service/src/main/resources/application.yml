@@ -1,0 +1,11 @@
+server:
+  contextPath: /ms
+
+logging:
+  level:
+    com.sample: DEBUG
+
+info:
+  build:
+    version: @project.version@
+    number: @build.number@
