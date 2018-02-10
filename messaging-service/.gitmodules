@@ -1,6 +1,0 @@
-[submodule "src/main/fabric8"]
-	path = src/main/fabric8
-	url = ssh://git@bitbucket.nets.no:29481/puma/openshift-resource-fragments.git
-[submodule "devops/maven/shared-maven-settings"]
-	path = devops/maven/shared-maven-settings
-	url = ssh://git@bitbucket.nets.no:29481/puma/shared-maven-settings.git
